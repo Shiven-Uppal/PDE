@@ -1,0 +1,9 @@
+{
+  "purpose": "one-episode forward daily-source diagnostic; calibration only",
+  "episode_id": "calibration_013",
+  "n_station_hours": 11695,
+  "n_daily_source_components": 16,
+  "rmse_ug_m3": 69.07929911534488,
+  "log_mse": 0.16823880099761546,
+  "max_relative_linear_residual": 1.560796377333968e-14
+}

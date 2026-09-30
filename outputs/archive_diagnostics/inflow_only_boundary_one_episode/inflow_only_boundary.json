@@ -1,0 +1,10 @@
+{
+  "purpose": "one-episode physically specified inflow-only boundary diagnostic; calibration only",
+  "episode_id": "calibration_013",
+  "n_station_hours": 11695,
+  "q": 9.996002107189985e-08,
+  "log_mse": 0.9839662471455313,
+  "rmse_ug_m3": 120.40006713394797,
+  "inflow_missing_fallback_hours": 1,
+  "max_relative_linear_residual": 1.7243037101776322e-14
+}

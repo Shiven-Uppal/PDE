@@ -1,0 +1,16 @@
+{
+  "uniform": {
+    "q": 3.8196601125010505e-08,
+    "log_mse": 0.7535793712554748,
+    "rmse_ug_m3": 114.53954747257
+  },
+  "spatial": {
+    "q": 3.819660112501051e-09,
+    "log_mse": NaN,
+    "rmse_ug_m3": 155.5345259674681
+  },
+  "purpose": "one-episode spatial-boundary code-path diagnostic; not calibration",
+  "episode_id": "calibration_013",
+  "n_station_hours": 11695,
+  "max_relative_linear_residual": 1.7243037101776322e-14
+}

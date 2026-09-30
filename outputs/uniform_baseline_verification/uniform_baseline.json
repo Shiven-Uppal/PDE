@@ -1,0 +1,8 @@
+{
+  "episode_id": "calibration_013",
+  "n_station_hours": 11695,
+  "q": 9.996002107189985e-08,
+  "log_mse": 0.753503434111402,
+  "rmse_ug_m3": 114.5373998153574,
+  "max_relative_linear_residual": 1.724116776287286e-14
+}

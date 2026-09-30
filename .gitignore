@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Large raw observations are retained locally for reproducibility but not pushed to GitHub.
+data/raw/cpcb/delhi_raw/
+data/raw/cpcb/delhi_raw_2024/
+data/raw/cpcb/boundary_raw/
+data/raw/osm/*.gpkg
+outputs/archive_diagnostics/*predictions.csv

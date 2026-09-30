@@ -1,0 +1,13 @@
+{
+  "split": "calibration",
+  "success": false,
+  "message": "Maximum number of iterations has been exceeded.",
+  "objective_log_mse": 0.20542702033808116,
+  "D0_m2_s": 4723.203456967246,
+  "lambda0_s_inv": 7.190039777897958e-06,
+  "kappa": 0.973013071171702,
+  "alpha_blh": -1.4486638657576836,
+  "beta_blh": 0.25577361763501016,
+  "blh_calibration_mean_m": 272.37270555635246,
+  "blh_calibration_sd_m": 347.6379854505311
+}
